@@ -1,4 +1,5 @@
 # Jumper Assignment
+Stijn Simons (s131794@ap.be)
 
 ## Denkproces
 
